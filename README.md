@@ -1,3 +1,11 @@
+NOTE: Did a variety of models here, the baseline is the data_clean_log_model notebook.  This notebook includes the data cleaning, minmax scaling and logistic regression for baseline results.  This notebook also includes the grid search for optimum parameters and saving the model.  
+
+Other models tested include the decision tree model, KNN model, random forest model  (ran_for_model), and 2 tensor flow models (simple and deep). 
+
+
+
+
+
 # Machine Learning Homework - Exoplanet Exploration
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
